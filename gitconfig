@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = edith.sarafis@zelros.com
+	name = Edith Sarafis
